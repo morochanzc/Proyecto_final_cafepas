@@ -1,0 +1,31 @@
+div#firma{
+  font-size: 10px;
+  text-align: center;
+}
+
+div#firma a:hover{
+	color:#EC7F00;
+	text-decoration: none;
+}
+
+div#firma a:link{
+	color:#1660CC;
+	text-decoration: none;
+}
+
+.terms a:link{
+	color:#1660CC;
+	text-decoration: none;
+}
+
+
+.container{
+  width: 100%;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+span{
+  color: #7B2729;
+}
+

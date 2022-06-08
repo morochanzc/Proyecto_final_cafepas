@@ -1,0 +1,29 @@
+.compania {
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    display: block;
+    min-height: 400px;
+    overflow: auto;
+}
+.compania h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.compania span {
+    text-align: justify;
+    font-size: 16px;
+}
+ngb-carousel.carousel.slide {
+    background-color: #ebdcd2;
+ 
+}
+.carousel-caption{
+    color:#803A08;
+    background-color: #EBDCD2;
+    width: 260px;
+    height: 140px;
+    margin-bottom:-40px;
+    margin-left:-200px;
+}
